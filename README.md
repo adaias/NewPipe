@@ -9,7 +9,3 @@ Instalar gradle
 Descargar y configurar android cmdlines
  - https://developer.android.com/studio?hl=es-419#command-tools
 Descargar la lib https://github.com/adaias/NewPipeExtractor y compilar
-
-ejecutar:
-./gradlew assembleDebug    # Para generar un APK de debug
-./gradlew assembleRelease  # Para generar un APK de release
