@@ -13,8 +13,10 @@
  <img src="https://img.shields.io/github/release/TeamNewPipe/NewPipe-refactor-nightly.svg?labelColor=purple&label=refactor%20nightly" >
 </a>
 <a href="https://www.gnu.org/licenses/gpl-3.0" alt="ਲਾਈਸੈਂਸ: GPLv3"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"></a>
-<a href="https://github.com/TeamNewPipe/NewPipe/actions" alt="ਬਿਲਡ ਦੀ ਸਥਿਤੀ"><img src="https://github.com/TeamNewPipe/NewPipe/actions/workflows/ci.yml/badge.svg?branch=dev&event=push"></a>
+<a href="https://github.com/TeamNewPipe/NewPipe/actions" alt="ਬਿਲਡ ਦੀ ਸਥਿਤੀ"><img src="https://github.com/TeamNewPipe/NewPipe/workflows/CI/badge.svg?branch=dev&event=push"></a>
 <a href="https://hosted.weblate.org/engage/newpipe/" alt="ਅਨੁਵਾਦ ਦੀ ਸਥਿਤੀ"><img src="https://hosted.weblate.org/widgets/newpipe/-/svg-badge.svg"></a>
+<a href="https://web.libera.chat/#newpipe" alt="IRC ਚੈਨਲ: #newpipe"><img src="https://img.shields.io/badge/IRC%20chat-%23newpipe-brightgreen.svg"></a>
+<a href="https://matrix.to/#/#newpipe:matrix.newpipe-ev.de" alt="Matrix channel: #newpipe"><img src="https://img.shields.io/badge/Matrix%20chat-%23newpipe-blue"></a>
 </p>
 
 <p align="center">
