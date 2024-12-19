@@ -13,3 +13,4 @@ Descargar la lib https://github.com/adaias/NewPipeExtractor y compilar
 ejecutar:
 ./gradlew assembleDebug    # Para generar un APK de debug
 ./gradlew assembleRelease  # Para generar un APK de release
+
