@@ -832,4 +832,7 @@
     <string name="reset_all_settings">Obnavljanje svih postavki odbacit će sve tvoje postavljene postavke i aplikacija će se ponovo pokrenuti.
 \n
 \nStvarno želiš nastaviti?</string>
+    <string name="always_use_exoplayer_set_output_surface_workaround_title">Uvijek koristi ExoPlayer postavku zaobilaženja videa za izlaznu površinu</string>
+    <string name="feed_fetch_channel_tabs_summary">Kartice za dohvaćanje prilikom aktualiziranja feeda. Ova opcija nema učinka ako se kanal aktualizira pomoću brzog modusa.</string>
+    <string name="audio_track_type_secondary">sekundarno</string>
 </resources>

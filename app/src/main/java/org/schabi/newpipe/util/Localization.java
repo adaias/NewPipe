@@ -11,6 +11,7 @@ import android.icu.text.CompactDecimalFormat;
 import android.os.Build;
 import android.text.TextUtils;
 import android.text.format.DateUtils;
+import android.text.BidiFormatter;
 import android.util.DisplayMetrics;
 import android.util.Log;
 
