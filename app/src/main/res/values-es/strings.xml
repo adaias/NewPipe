@@ -611,7 +611,6 @@
     <string name="description_select_disable">Deshabilitar la selección de texto de la descripción</string>
     <string name="description_select_enable">Habilitar la selección de texto de la descripción</string>
     <string name="description_select_note">Ahora puede seleccionar el texto dentro de la descripción. Note que la página puede parpadear y los links no serán cliqueables mientras está en el modo de selección.</string>
-    <string name="service_provides_reason">%s da esta razón:</string>
     <string name="feed_load_error_account_info">No fue posible cargar el feed por \'%s\'.</string>
     <string name="account_terminated">Cuenta cancelada</string>
     <string name="feed_load_error_fast_unknown">El modo de muro rápido no arroja más información sobre esto.</string>
@@ -830,4 +829,19 @@
     <string name="select_a_feed_group">Selecciona un grupo de feed</string>
     <string name="no_feed_group_created_yet">Aún no se ha creado ningún grupo de feed</string>
     <string name="feed_group_page_summary">Página de grupo de canales</string>
+    <string name="search_with_service_name">Buscar %1$s</string>
+    <string name="search_with_service_name_and_filter">Buscar %1$s (%2$s)</string>
+    <string name="channel_tab_likes">Me gusta</string>
+    <string name="migration_info_6_7_title">Página Top 50 de SoundCloud eliminada</string>
+    <string name="migration_info_6_7_message">SoundCloud ha descontinuado las listas originales del Top 50. La pestaña correspondiente se ha eliminado de la página principal.</string>
+    <string name="migration_info_7_8_title">YouTube tendencias combinadas eliminado</string>
+    <string name="migration_info_7_8_message">YouTube ha descontinuado la página de tendencias combinadas a partir del 21 de julio de 2025. NewPipe reemplazó la página de tendencias predeterminada con tendencias en directo.\n\nTambién puedes seleccionar diferentes páginas de tendencias en \"Ajustes &gt; Contenido &gt; Contenido de la página principal\".</string>
+    <string name="trending_gaming">Tendencias videojuegos</string>
+    <string name="trending_podcasts">Tendencias pódcasts</string>
+    <string name="trending_movies">Tendencias películas y programas</string>
+    <string name="trending_music">Tendencias música</string>
+    <string name="permission_display_over_apps_permission_name">“Permitir mostrar sobre otras aplicaciones”</string>
+    <string name="delete_file">Eliminar archivo</string>
+    <string name="short_thousand">%sM</string>
+    <string name="short_million">%sM</string>
 </resources>
