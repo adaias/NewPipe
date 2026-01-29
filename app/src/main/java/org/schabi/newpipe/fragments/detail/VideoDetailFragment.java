@@ -1422,8 +1422,10 @@ public final class VideoDetailFragment
                             bottomSheetBehavior.setState(BottomSheetBehavior.STATE_COLLAPSED);
                         }
                         // Rebound to the service if it was closed via notification or mini player
-                        playerHolder.setListener(VideoDetailFragment.this);
-                        playerHolder.tryBindIfNeeded(context);
+                        if (!playerHolder.isBound()) {
+                            playerHolder.startService(
+                                    false, VideoDetailFragment.this);
+                        }
                         break;
                 }
             }
