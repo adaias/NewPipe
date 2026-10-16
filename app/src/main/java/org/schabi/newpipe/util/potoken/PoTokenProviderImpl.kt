@@ -78,7 +78,7 @@ object PoTokenProviderImpl : PoTokenProvider {
 
                     // create a new webPoTokenGenerator
                     webPoTokenGenerator = PoTokenWebView
-                        .newPoTokenGenerator(App.getApp()).blockingGet()
+                        .newPoTokenGenerator(App.instance).blockingGet()
 
                     // The streaming poToken needs to be generated exactly once before generating
                     // any other (player) tokens.
@@ -123,10 +123,4 @@ object PoTokenProviderImpl : PoTokenProvider {
 
         return PoTokenResult(visitorData, playerPot, streamingPot)
     }
-
-    override fun getWebEmbedClientPoToken(videoId: String): PoTokenResult? = null
-
-    override fun getAndroidClientPoToken(videoId: String): PoTokenResult? = null
-
-    override fun getIosClientPoToken(videoId: String): PoTokenResult? = null
 }
